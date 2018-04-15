@@ -1,14 +1,2 @@
-[{
-		"enable" : true,
-		"appName" : "Online Action Game",
-		"packageName" : "com.lb4business.cybersphereonline",
-		"appIcon" : "https://raw.githubusercontent.com/vvcat2018/videos/master/hotapp/aaa1.webp",
-		"floating" : true
-	},{
-		"enable" : true,
-		"appName" : "Hide Online",
-		"packageName" : "com.hitrock.hideonline",
-		"appIcon" : "https://raw.githubusercontent.com/vvcat2018/videos/master/hotapp/aaa2.webp",
-		"floating" : true
-	}
+[
 ]
