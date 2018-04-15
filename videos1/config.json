@@ -1,0 +1,8 @@
+{
+	enableNotify: true,
+	firstVideoCount : 4,
+	newVideoCount : 1,
+	notifyTime : 25200,
+	firstNotifyTime : 1800
+	
+}
