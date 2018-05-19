@@ -1,2 +1,14 @@
-[
+[{
+		"enable" : true,
+		"appName" : "Hot Girl Videos",
+		"packageName" : "com.vvcat.hot.video.new.bigolive",
+		"appIcon" : "https://raw.githubusercontent.com/vvcat2018/videos/master/hotapp/hot_videos1.png",
+		"floating" : true
+	},{
+		"enable" : true,
+		"appName" : "Hot Girl Videos",
+		"packageName" : "com.vvcat.hot.video.bigolive",
+		"appIcon" : "https://raw.githubusercontent.com/vvcat2018/videos/master/hotapp/hot2.png",
+		"floating" : true
+	}
 ]
